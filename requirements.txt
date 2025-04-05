@@ -1,0 +1,8 @@
+scikit-learn
+numpy
+pandas
+xgboost
+nltk
+dvc
+pyYaml
+-e .
