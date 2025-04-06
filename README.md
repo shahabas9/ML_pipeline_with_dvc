@@ -9,5 +9,17 @@
 
 3. pip install -r requirements.txt 
 
+## dvc pipeline commands
+
+- git init
+
+- dvc init
+
+- dvc repro
+
+- dvc dag
+
+- dvc metrics show
+
 
 
